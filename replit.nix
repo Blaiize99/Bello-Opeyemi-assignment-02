@@ -1,6 +1,9 @@
 { pkgs }: {
   deps = [
-    pkgs.mastodon
+    pkgs.yarn
+pkgs.hadoop_3_1
+pkgs.hadoop_3_1
+pkgs.mastodon
 pkgs.yarn
 pkgs.yarn
 pkgs.hadoop_3_1
